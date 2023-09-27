@@ -1,6 +1,6 @@
-# This is Python!
+# Welcome to my personal Python Study Guide!
 
-All about Python by Caio Saldanha. A series of studies and content about and with Python.
+It's all about Python and how it is easy to learn (and document) it.
 
 ## Intro
 1. General Intro to Python
