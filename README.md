@@ -1,4 +1,4 @@
-# Welcome to my personal Python Study Guide!
+# Python Study Guide [in development]
 
 ## The *Zen* of Python
 
